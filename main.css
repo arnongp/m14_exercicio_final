@@ -1,0 +1,23 @@
+#receitas {
+  background-color: rgb(245, 245, 245);
+}
+
+.text-logo {
+  color: rgb(255, 141, 141);
+  font-weight: bold;
+}
+
+#footer {
+  background-color: rgb(39, 39, 39);
+  color: rgb(230, 230, 230);
+}
+
+.social-links li {
+  list-style: none;
+  display: inline;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: rgb(230, 230, 230);
+}
